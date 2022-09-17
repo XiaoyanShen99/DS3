@@ -1,0 +1,51 @@
+/*Add padding and margin to space out the page.
+Make the font larger too.*/
+body{
+
+}
+
+/*Make the h1 heading bigger with a bold font*/
+h1{
+
+}
+
+.active{
+
+
+.active a{
+
+}
+
+/*Style the images*/
+img{
+
+}
+
+/*Make the h2 heading match h1*/
+h2{
+
+}
+
+/*Improve the spacing for paragraphs AND headings*/
+p, h1, h2 {
+
+}
+
+/*Add borders around the main components and some
+space too*/
+header, nav, main, footer{
+
+}
+
+
+/*Change the styling for all of the list 
+items in the nav section*/
+nav li{
+
+}
+
+/*Added this so the links stay the same color*/
+a:visited{
+	
+}
+
