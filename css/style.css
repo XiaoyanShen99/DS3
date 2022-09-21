@@ -1,8 +1,8 @@
 /*Style the images*/
 img{
-	width: 300px;
+	width: 500px;
 	margin: 3px;
-	border: solid gray 1px;
+	border: dashed gray 3px;
 }
 
 img:hover{
@@ -13,3 +13,4 @@ img:hover{
 	color:white;
 	background-color:black;
 }
+
