@@ -1,8 +1,12 @@
-/*Style the images*/
+
+p{
+	font-size: 14px;
+	font-family: 'Courier New', Courier, monospace;
+}
+
 img{
 	width: 500px;
 	margin: 3px;
-	border: dashed gray 3px;
 }
 
 img:hover{
@@ -13,4 +17,5 @@ img:hover{
 	color:white;
 	background-color:lightblue;
 }
+
 
